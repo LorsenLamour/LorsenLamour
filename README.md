@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###💻 J’aime coder des projets variés liés à l’interface utilisateur, explorer de nouveaux langages et frameworks, et contribuer à des projets open source.
-###📚 Je suis toujours curieux d’apprendre de nouvelles choses.
-###En ce moment, je cherche à améliorer mes compétences.
+###  💻 J’aime coder des projets variés liés à l’interface utilisateur, explorer de nouveaux langages et frameworks, et contribuer à des projets open source.
+###  📚 Je suis toujours curieux d’apprendre de nouvelles choses.
+###  En ce moment, je cherche à améliorer mes compétences.
 
-##N’hésite pas à jeter un œil à mes projets et à me contacter !
+##  N’hésite pas à jeter un œil à mes projets et à me contacter !
