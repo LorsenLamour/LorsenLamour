@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **LorsenLamour/LorsenLamour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - 🚀 Actuellement, je me spécialise en [spécialisation, ex : développement web, intelligence artificielle, systèmes embarqués, etc.].
 - ⚡ Fun fact: ...
 -->
-
-###  💻 J’aime coder des projets variés liés à l’interface utilisateur, explorer de nouveaux langages et frameworks, et contribuer à des projets open source.
-###  📚 Je suis toujours curieux d’apprendre de nouvelles choses.
-###  En ce moment, je cherche à améliorer mes compétences.
+## À propos de moi
+-- 💻 J’aime coder des projets variés liés à l’interface utilisateur, explorer de nouveaux langages et frameworks, et contribuer à des projets open source.
+-- 📚 Je suis toujours curieux d’apprendre de nouvelles choses.
+## Quoi de neuf
+En ce moment, je cherche à améliorer mes compétences.
 
 ##  N’hésite pas à jeter un œil à mes projets et à me contacter !
